@@ -2,7 +2,7 @@
 
  Welcome to the Coaching and Training Aid app for IOS!
 
- This is a closed source Android app developed by Shaun Basson. The app is available on the App Store.
+ This is a closed source Android app developed by the Coaching Parter team. The app is available on the App Store.
 
  I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
@@ -11,6 +11,6 @@
  If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
  Yours sincerely,
- Shaun Basson.
+ Coaching Parter team.
  Hsinchu, Taiwan.
  coachingparter@gmail.com
