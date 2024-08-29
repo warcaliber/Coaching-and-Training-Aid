@@ -1,16 +1,16 @@
 # Coaching-and-Training-Aid
 
-Terms of Service for Coaching and Training Aid Application
+Terms of Service for Coaching Partner Application
 
 Effective Date: 2023-05-19
 
-Welcome to the Coaching and Training Aid . The App is provided by Coaching Parter Inc. By using the App, you agree to be bound by these Terms of Service. Please read these Terms carefully before using the App.
+Welcome to the Coaching Partner . The App is provided by Coaching Parter Inc. By using the App, you agree to be bound by these Terms of Service. Please read these Terms carefully before using the App.
 
 1. Acceptance of Terms
 By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree with any provision of these Terms, you may not use the App.
 
 2. Description of the App
-Coaching and Training Aid is a mobile application designed to provide coaching and training assistance for various purposes, such as fitness, sports, education, and personal development. The App may include features such as workout tracking, training times, personalized training plans, and educational content.
+Coaching Partner is a mobile application designed to provide coaching and training assistance for various purposes, such as fitness, sports, education, and personal development. The App may include features such as workout tracking, training times, personalized training plans, and educational content.
 
 3. User Accounts and Registration
 To access certain features of the App, you may be required to create a user account. You must provide accurate, complete, and current information during the registration process and keep your account credentials confidential. You are responsible for all activities that occur under your account. If you become aware of any unauthorized use of your account, you must notify us immediately.
