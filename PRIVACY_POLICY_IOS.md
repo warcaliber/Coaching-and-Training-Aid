@@ -1,6 +1,6 @@
- Coaching and Training Aid: Privacy policy
+ Coaching and Partner: Privacy policy
 
- Welcome to the Coaching and Training Aid app for IOS!
+ Welcome to the Partner app for IOS!
 
  This is a closed source Android app developed by the Coaching Partner team. The app is available on the App Store.
 
