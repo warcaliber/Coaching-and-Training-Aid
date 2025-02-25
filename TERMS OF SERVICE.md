@@ -4,7 +4,7 @@ Terms of Service for Coaching Partner Application
 
 Effective Date: 2023-05-19
 
-Welcome to the Coaching Partner . The App is provided by Coaching Parter Inc. By using the App, you agree to be bound by these Terms of Service. Please read these Terms carefully before using the App.
+Welcome to Coaching Partner. The App is provided by Coaching Parter Inc. By using the App, you agree to be bound by these Terms of Service. Please read these Terms carefully before using the App.
 
 1. Acceptance of Terms
 By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree with any provision of these Terms, you may not use the App.
